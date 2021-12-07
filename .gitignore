@@ -1,0 +1,7 @@
+*.exe
+
+*.7z
+
+test_info.txt
+
+utf_8/*
